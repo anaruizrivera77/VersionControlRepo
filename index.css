@@ -53,3 +53,29 @@
      display:flex;
      justify-content:center;
   }
+
+  ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: black;
+}
+
+li a{
+    display: block;
+    float: left;
+    color: white;
+    text-align: center;
+    padding: 15px 15px;
+    font-size: medium;
+    font-family: 'Times New Roman', Times, serif;
+}
+body {
+    margin: 0;
+    padding: 0;
+}
+
+html {
+    font-family: 'Times New Roman', Times, serif;
+}
