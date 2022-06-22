@@ -1,0 +1,55 @@
+
+  .contact .contact_us {
+      width: 35%;
+      height: 100%;
+      background:grey;
+      margin-right:5%;
+      text-align: center;
+      padding-top: 10px;
+    margin: 0 auto;
+  }
+  .contact .contact_us h2{
+      margin: 0;
+      color: white;
+      padding-top: 5%;
+      padding-bottom: 15%;
+  }
+  
+  .contact .contact_us form {
+      width: 80%;
+      margin: auto;
+  }
+  
+  .contact .contact_us form input{
+      display: block;
+      width: 100%;
+      background:rgba(0,0,0,0.5);
+      border:0;
+      height: 37px;
+      padding-left: 15px;
+      margin-bottom: 15px;
+      outline: 0;
+      color: #fff;
+  
+  }
+  .contact .contact_us form textarea{
+      width: 100%;
+      background:rgba(0,0,0,0.5);
+      border:0;
+      padding-left: 15px;
+      padding-top: 15px;
+      margin-bottom: 15px;
+      color: #fff;
+  
+      
+  }
+  .contact .contact_us form input[type="submit"]{
+      color: #fff;
+      cursor: pointer;
+      width: 150px;
+      height:50px;
+      font-size: 20px;
+      border-radius: 10px;
+     display:flex;
+     justify-content:center;
+  }
